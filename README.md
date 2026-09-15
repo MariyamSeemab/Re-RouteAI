@@ -1,4 +1,4 @@
-# 🧭 Re:Route AI
+#  🧭 Re:Route AI
 
 An AI-powered conference-navigation frontend for **AWS re:Invent 2026**, built with **React, TypeScript, Vite, and Tailwind CSS v4**.
 
